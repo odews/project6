@@ -1,0 +1,10 @@
+.main{
+    width: 80vw;
+    margin:50px auto;
+}
+.card{
+    margin: 20px auto;
+}
+body{
+    background-color: rgb(205, 222, 60) !important;
+}
